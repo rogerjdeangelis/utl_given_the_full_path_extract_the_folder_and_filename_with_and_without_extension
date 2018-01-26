@@ -1,0 +1,2 @@
+# utl_given_the_full_path_extract_the_folder_and_filename_with_and_without_extension
+Given a full path extract the folder and filename with and without extension.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
